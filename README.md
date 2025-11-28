@@ -1,8 +1,8 @@
 # 🖥️ Chuyên đề Python - Nộp bài tập
 
 ## 👨‍🎓 Thông tin sinh viên
-- **Họ và tên:** Phó Bảo Phong  
-- **MSSV:** DTH235731  
+- **Họ và tên:** Phan Ngọc Khôi Nguyên 
+- **MSSV:** DTH235708  
 - **Lớp:** DH24TH2  
 
 ## 📘 Môn học
